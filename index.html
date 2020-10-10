@@ -28,7 +28,7 @@ layout: compress
 <body class="body">
 <div class="container">
     <header class="header">
-        <h1>Modern Blog<span>A Clean, Fresh Minimal Look.</span></h1>
+        <h1>Simon Ha<span>Software Developer Based in Mississauga, Ontario.</span></h1>
         <nav class="links">
             <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
             <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
@@ -41,7 +41,7 @@ layout: compress
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
         <div class="wrapper">
-            {% for post in site.posts %}
+            {% for post in site.categories.about-me %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
@@ -73,6 +73,41 @@ layout: compress
                 </div>
             </div>
             {% endfor %}
+
+            <div class="experience">
+                {% for post in site.categories.experience %}
+                <div class="card" data-id="{{ post.id }}">
+                    <div class="card__container card__container--closed">
+                        <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                            preserveAspectRatio="xMidYMid slice">
+                            <defs>
+                                <clipPath id="{{ post.id }}-clip-path">
+                                    <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                                </clipPath>
+                            </defs>
+                            <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                                xlink:href="{{ post.image }}"></image>
+                        </svg>
+                        <div class="card__content">
+                            <i class="card__btn-close fa fa-times"></i>
+                            <div class="card__caption">
+                                <h2 class="card__title">{{ post.title }}</h2>
+                                <p class="card__subtitle">{{ post.subtitle }}</p>
+                            </div>
+                            <div class="card__copy">
+                                <div class="meta">
+                                    <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                    <span class="meta__author">{{ post.author }}</span>
+                                    <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                                </div>
+                                {{ post.content }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
             <!-- /cards -->
         </div>
     </div>
