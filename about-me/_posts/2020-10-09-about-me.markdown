@@ -30,4 +30,4 @@ May - Aug 2020
 Junior Developer: Insurance portal revamp, scheduling & APIs  
 May - Aug 2019
 
-##### [View My Resume](/about-me/Simon_Ha_Resume.pdf) :point_left:
+<u><a href="/about-me/Simon_Ha_Resume.pdf" target="_blank">View My Resume</a></u> :point_left:
