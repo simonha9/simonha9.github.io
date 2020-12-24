@@ -13,9 +13,9 @@ The "Dollar Store" was a android sales application created in my second year in 
 The task was to create an online shopping center featuring various items such as fishing poles, umbrellas, socks and a bunch of other items.  I worked in an amazing group with 3 of my classmates, many of us beginners to real software development.  We quickly learned how to design good code, how to implement standard software development practices and methodologies, and how to work as a team.
 
 ### Technicalities
-The application featured 3 different roles, a Customer, Employee and Admin.  This was the first Android application that I had created, and I am thankful to have had such a great team to develop it with.  We climbed the learning curve for Android Studio, as well as 
+The application featured 3 different roles, a Customer, Employee and Admin.  This was the first Android application that I had created, and I am thankful to have had such a great team to develop it with.  We climbed the learning curve for Android Studio, as well as worked out the kinks of developing an application with vague requirements as a group.
 
-The customer could create an account and "shop" with the limited inventory.  Once an account was created, the customer had the option to load a shopping cart from a previous shopping session, or create a new on entirely.  
+The customer could create an account and "shop" with the limited inventory.  Once an account was created, the customer had the option to load a shopping cart from a previous shopping session, or create a new one entirely.  
 
 The Employee had responsibilities of selling items to the customer and managing the inventory.  The Employee could view a log of recently purchased items and restock/order more items for the inventory.
 

@@ -14,12 +14,18 @@ I specialize in the comprehensive stream, bridging the gap between data sciences
 
 **When I'm not coding**, I'm probably reading, cooking or trying to climb in League of Legends (Peaked top 5.5% in North America).
 
-## Skills and Coursework
+## Skills
 **Languages**: Java, C/C++, Python, SQL, HTML, CSS, JavaScript  
 **Frameworks/APIs**: Spring, Spring-Boot, Hibernate, J2EE, REST, Swagger, WSO2, Vaadin  
 **Databases**: Oracle, PostgreSQL, MongoDB, Elasticsearch, Sybase, Neo4j  
 **Tools**: Git, Jira, Jenkins, Eclipse, Maven, SonarQube, JMeter, Android Studio, Kubernetes  
 
+## School Projects
+**CSCB07 - 2nd year Intro to Software Engineering**  
+Created Inventory Management system using Java for both front-end (in Android Studio) and back-end.  The application can run on any Android devices after Kit-Kat and also on the CLI.  This project was built over the course of 4 weeks and was meant to introduce Agile methodologies and the experience of building a product with a team.  See more on the "Dollar Store" post.  <!-- Make a linky link -->
+
+**CSCC01 - 3rd Year Software Engineering**  
+Developed a full project for the up-and-coming start-up U Impactify.  It is a web-application to facilitate E-learning for socially marginalized groups.  The project was built over 4 months using Spring/Hibernate for the back-end and React/Node for the front-end.  More can be found on the "U Impactify" post. <!-- Make a linky link --> 
 
 ## Experience
 **DayStar Limited**  
@@ -29,5 +35,7 @@ May - Aug 2020
 **Genworth Financial Canada**  
 Junior Developer: Insurance portal revamp, scheduling & APIs  
 May - Aug 2019
+
+
 
 <u><a href="/about-me/Simon_Ha_Resume.pdf" target="_blank">View My Resume</a></u> :point_left:
