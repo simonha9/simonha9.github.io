@@ -8,7 +8,7 @@ date:   19-09-25 15:25:00
 ---
 
 ### CSCB07 Dollar Store 
-The "Dollar Store" was a android sales application created in my second year in a software design course.  
+The "[Dollar Store]"(http://github.com/simonha9/SalesApplication) was a android sales application created in my second year in a software design course.  
 
 The task was to create an online shopping center featuring various items such as fishing poles, umbrellas, socks and a bunch of other items.  I worked in an amazing group with 3 of my classmates, many of us beginners to real software development.  We quickly learned how to design good code, how to implement standard software development practices and methodologies, and how to work as a team.
 
