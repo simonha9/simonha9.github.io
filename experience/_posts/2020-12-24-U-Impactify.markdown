@@ -7,7 +7,7 @@ image: "img/g.jpg"
 date:   20-11-24 15:25:00
 ---
 
-### CSCC01 U Impactify  
+### CSCC01 [U Impactify](http://github.com/simonha9/U-Impactify)  
 CSCC01 is a 3rd year Software Engineering course with a prerequisite of CSCB07 (see "Dollar Store" post).  In C01, we continually learned about modern software engineering practices and implemented them in groups.  
 
 ### Background  
