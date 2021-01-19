@@ -21,11 +21,12 @@ I specialize in the comprehensive stream, bridging the gap between data sciences
 **Tools**: Git, Jira, Jenkins, Eclipse, Maven, SonarQube, JMeter, Android Studio, Kubernetes  
 
 ## School Projects
-**CSCB07 - 2nd year Intro to Software Engineering**  
-Created Inventory Management system using Java for both front-end (in Android Studio) and back-end.  The application can run on any Android devices after Kit-Kat and also on the CLI.  This project was built over the course of 4 weeks and was meant to introduce Agile methodologies and the experience of building a product with a team.  See more on the "Dollar Store" post.  <!-- Make a linky link -->
+**CSCC01 - E-learning Web Application**  
+Developed a full project for the up-and-coming start-up U Impactify.  It is a web-application to facilitate E-learning for socially marginalized groups.  The project was built over 4 months using Spring/Hibernate for the back-end and React/Node for the front-end.  More can be found on the "U Impactify" post. [See the project on my github](http://github.com/simonha9/U-Impactify)
 
-**CSCC01 - 3rd Year Software Engineering**  
-Developed a full project for the up-and-coming start-up U Impactify.  It is a web-application to facilitate E-learning for socially marginalized groups.  The project was built over 4 months using Spring/Hibernate for the back-end and React/Node for the front-end.  More can be found on the "U Impactify" post. <!-- Make a linky link --> 
+**CSCB07 - Inventory Management Application**  
+Created Inventory Management system using Java for both front-end (in Android Studio) and back-end.  The application can run on any Android devices after Kit-Kat and also on the CLI.  This project was built over the course of 4 weeks and was meant to introduce Agile methodologies and the experience of building a product with a team.  See more on the "Dollar Store" post.  [See the project on my github](http://github.com/simonha9/SalesApplication)<!-- Make a linky link -->
+
 
 ## Experience
 **DayStar Limited**  
