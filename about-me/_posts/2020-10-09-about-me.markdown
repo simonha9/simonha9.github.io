@@ -8,7 +8,7 @@ date:   20-10-09 9:00:00
 ---
 
 ## Background
-I'm currently a 3rd year computer science student studying at University of Toronto.  
+I'm currently a fourth year computer science student studying at University of Toronto.  
 
 I specialize in the comprehensive stream, bridging the gap between data sciences and standard software engineering; fusing my love of solving problems and creating solutions through mathematical analysis.  
 
